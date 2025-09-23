@@ -1,0 +1,58 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.elf
+
+# Build directories
+/build/
+/bin/
+/lib/
+/dist/
+/out/
+/.pio/
+/.cmake-build-*/
+
+# Debug files
+*.dSYM/
+*.stackdump
+*.core
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.user
+*.pro.user
+*.pro.user.*
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Arduino/PlatformIO specific
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json

@@ -11,6 +11,8 @@ nodemon -e cpp --exec "g++ 10_hypot-calc.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 11_if-statement.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 12_switch.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 16_temp-convert.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 17_string-methods.cpp -o main && ./main"
+
 
 ```
 

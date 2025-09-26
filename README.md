@@ -15,6 +15,7 @@ nodemon -e cpp --exec "g++ 17_string-methods.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 18_while.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 20_for-loop.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 23_random-number.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 24_random-event.cpp -o main && ./main"
 
 
 ```

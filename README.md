@@ -16,7 +16,11 @@ nodemon -e cpp --exec "g++ 18_while.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 20_for-loop.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 23_random-number.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 24_random-event.cpp -o main && ./main"
-
+nodemon -e cpp --exec "g++ 25_number-guessing.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 26_function.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 27_return.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 28_overload-func.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 29_var-scope.cpp -o main && ./main"
 
 ```
 

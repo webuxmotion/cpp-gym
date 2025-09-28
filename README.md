@@ -23,6 +23,7 @@ nodemon -e cpp --exec "g++ 28_overload-func.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 29_var-scope.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 30_banking-program.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 31_rock-paper-scissors.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 32_arrays.cpp -o main && ./main"
 
 ```
 

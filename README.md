@@ -24,6 +24,9 @@ nodemon -e cpp --exec "g++ 29_var-scope.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 30_banking-program.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 31_rock-paper-scissors.cpp -o main && ./main"
 nodemon -e cpp --exec "g++ 32_arrays.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 33_sizeof.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 34_array-iteration.cpp -o main && ./main"
+nodemon -e cpp --exec "g++ 35_foreach.cpp -o main && ./main"
 
 ```
 
